@@ -9,7 +9,7 @@ namespace BasicAuth.Services
     {
         public bool ValidateCredentials(string username, string password)
         {
-            return username.Equals("me") && password.Equals("Pa$$WoRd");
+            return username.Equals("admin") && password.Equals("Pa$$WoRd");
         }
     }
 }
