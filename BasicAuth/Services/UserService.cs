@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace BasicAuth.Services
 {
-    public class UserService : IUserService
+    public class UserService : IUserService 
     {
         public bool ValidateCredentials(string username, string password)
         {
