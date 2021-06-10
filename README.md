@@ -12,3 +12,5 @@
 [**C# Corner**](https://www.c-sharpcorner.com/article/basic-authentication-in-swagger-open-api-net-5/ "C# Corner")
 
 [**Medium**](https://medium.com/nerd-for-tech/basic-authentication-in-swagger-open-api-net-5-436f7d4a2f01 "Medium")
+
+[**Hashnode**](https://jaykrishnareddy.hashnode.dev/basic-authentication-in-swagger-open-api-net-5 "Hashnode")
