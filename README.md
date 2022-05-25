@@ -3,7 +3,7 @@
 ### Only Package used in this Project!
 - Swashbuckle.AspNetCore (latest version)
 
-### Authentication Testing!
+### Authentication and Application Testing!
 - Swagger
 - PostMan
  
