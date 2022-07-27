@@ -1,5 +1,7 @@
 ## Basic Authentication in Swagger (Open API) .Net 5
 
+![picture alt](https://github.com/JayKrishnareddy/BasicAuth_AzureFunction_API/blob/master/J1%20(1).png "Basic Authentication For Azure Functions (Open API) .Net 6")
+
 ### Only Package used in this Project!
 - Swashbuckle.AspNetCore (latest version)
 
